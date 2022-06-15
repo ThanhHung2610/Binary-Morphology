@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb8f468e-b83d-4058-b66d-ccb55a37d786" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../pytorch_ffnn2/.idea/dictionaries/ituni.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../doc/hdth03/K2017_UDXLAV_2020_LQN_TH03.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/hdth03/K2017_UDXLAV_2020_LQN_TH03.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../doc/hdth03/~$017_UDXLAV_2020_LQN_TH03.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytorch_ffnn2/function_simple/loss_prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pytorch_ffnn2/function_simple/loss_prime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytorch_ffnn2/layer_simple/act_layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pytorch_ffnn2/layer_simple/act_layer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytorch_ffnn2/layer_simple/base_layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pytorch_ffnn2/layer_simple/base_layer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytorch_ffnn2/layer_simple/fc_layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pytorch_ffnn2/layer_simple/fc_layer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytorch_ffnn2/network_simple/network.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pytorch_ffnn2/network_simple/network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytorch_ffnn2/nn_simple/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytorch_ffnn2/nn_simple/ffnn.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aX968t9v6kWDH7LS8LZnmzCK29" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="morphological" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="-i &quot;D:\\uni\\project\\data\\LQN_test.png&quot; -o &quot;D:\uni\project\data\LQN_test_out.png&quot; -p &quot;dilate&quot; -t &quot;0&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb8f468e-b83d-4058-b66d-ccb55a37d786" name="Default Changelist" comment="" />
+      <created>1586870894100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586870894100</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="75" key="#Notifications" timestamp="1586880875449">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="75" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1586880875449" />
+    <state x="776" y="143" width="1089" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589487485444">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="223" y="144" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1586876316179" />
+    <state x="223" y="128" width="1089" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1586882034705" />
+    <state x="776" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1589487485444" />
+    <state x="279" y="161" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1589256592064" />
+    <state x="904" y="370" key="FileChooserDialogImpl" timestamp="1591772012400">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="548" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1586876402711" />
+    <state x="548" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1586881064312" />
+    <state x="904" y="370" key="FileChooserDialogImpl/0.0.1920.1019@0.0.1920.1019" timestamp="1591772012400" />
+    <state x="904" y="381" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1589289879538" />
+    <state width="1515" height="265" key="GridCell.Tab.0.bottom" timestamp="1586882565904">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1586876919425" />
+    <state width="1515" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586882565904" />
+    <state width="1515" height="265" key="GridCell.Tab.0.center" timestamp="1586882565904">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1586876919424" />
+    <state width="1515" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1586882565904" />
+    <state width="1515" height="265" key="GridCell.Tab.0.left" timestamp="1586882565904">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1586876919424" />
+    <state width="1515" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1586882565904" />
+    <state width="1515" height="265" key="GridCell.Tab.0.right" timestamp="1586882565904">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1586876919425" />
+    <state width="1515" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1586882565904" />
+    <state width="1515" height="265" key="GridCell.Tab.1.bottom" timestamp="1586882565904">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586882565904" />
+    <state width="1515" height="265" key="GridCell.Tab.1.center" timestamp="1586882565904">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1586882565904" />
+    <state width="1515" height="265" key="GridCell.Tab.1.left" timestamp="1586882565904">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1586882565904" />
+    <state width="1515" height="265" key="GridCell.Tab.1.right" timestamp="1586882565904">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1586882565904" />
+    <state x="346" y="74" key="SettingsEditor" timestamp="1589256795297">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="277" y="59" key="SettingsEditor/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1586876918134" />
+    <state x="277" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1586881067791" />
+    <state x="346" y="74" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1589256795297" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1586877031592">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1586876901558" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1586877031592" />
+  </component>
+</project>
